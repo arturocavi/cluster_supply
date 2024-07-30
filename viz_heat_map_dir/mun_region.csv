@@ -1,0 +1,126 @@
+cve_mun,cve_region,mun,region
+1,3,Acatic,Altos Sur
+2,11,Acatlán de Juárez,Lagunas
+3,10,Ahualulco de Mercado,Valles
+4,11,Amacueca,Lagunas
+5,10,Amatitán,Valles
+6,10,Ameca,Valles
+7,10,San Juanito de Escobedo,Valles
+8,3,Arandas,Altos Sur
+9,10,El Arenal,Valles
+10,11,Atemajac de Brizuela,Lagunas
+11,7,Atengo,Sierra de Amula
+12,9,Atenguillo,Costa-Sierra Occidental
+13,4,Atotonilco el Alto,Ciénega
+14,11,Atoyac,Lagunas
+15,7,Autlán de Navarro,Sierra de Amula
+16,4,Ayotlán,Ciénega
+17,7,Ayutla,Sierra de Amula
+18,4,La Barca,Ciénega
+19,1,Bolaños,Norte
+20,9,Cabo Corrientes,Costa-Sierra Occidental
+21,8,Casimiro Castillo,Costa Sur
+22,8,Cihuatlán,Costa Sur
+23,6,Zapotlán el Grande,Sur
+24,11,Cocula,Lagunas
+25,1,Colotlán,Norte
+26,5,Concepción de Buenos Aires,Sureste
+27,8,Cuautitlán de García Barragán,Costa Sur
+28,7,Cuautla,Sierra de Amula
+29,12,Cuquío,Centro
+30,5,Chapala,Sureste
+31,1,Chimaltitán,Norte
+32,7,Chiquilistlán,Sierra de Amula
+33,4,Degollado,Ciénega
+34,7,Ejutla,Sierra de Amula
+35,2,Encarnación de Díaz,Altos Norte
+36,10,Etzatlán,Valles
+37,7,El Grullo,Sierra de Amula
+38,9,Guachinango,Costa-Sierra Occidental
+39,12,Guadalajara,Centro
+40,10,Hostotipaquillo,Valles
+41,1,Huejúcar,Norte
+42,1,Huejuquilla el Alto,Norte
+43,8,La Huerta,Costa Sur
+44,12,Ixtlahuacán de los Membrillos,Centro
+45,12,Ixtlahuacán del Río,Centro
+46,3,Jalostotitlán,Altos Sur
+47,4,Jamay,Ciénega
+48,3,Jesús María,Altos Sur
+49,6,Jilotlán de los Dolores,Sur
+50,5,Jocotepec,Sureste
+51,12,Juanacatlán,Centro
+52,7,Juchitlán,Sierra de Amula
+53,2,Lagos de Moreno,Altos Norte
+54,7,El Limón,Sierra de Amula
+55,10,Magdalena,Valles
+56,5,Santa María del Oro,Sureste
+57,5,La Manzanilla de la Paz,Sureste
+58,9,Mascota,Costa-Sierra Occidental
+59,5,Mazamitla,Sureste
+60,3,Mexticacán,Altos Sur
+61,1,Mezquitic,Norte
+62,9,Mixtlán,Costa-Sierra Occidental
+63,4,Ocotlán,Ciénega
+64,2,Ojuelos de Jalisco,Altos Norte
+65,6,Pihuamo,Sur
+66,4,Poncitlán,Ciénega
+67,9,Puerto Vallarta,Costa-Sierra Occidental
+68,8,Villa Purificación,Costa Sur
+69,5,Quitupan,Sureste
+70,12,El Salto,Centro
+71,12,San Cristóbal de la Barranca,Centro
+72,2,San Diego de Alejandría,Altos Norte
+73,2,San Juan de los Lagos,Altos Norte
+74,3,San Julián,Altos Sur
+75,10,San Marcos,Valles
+76,1,San Martín de Bolaños,Norte
+77,11,San Martín Hidalgo,Lagunas
+78,3,San Miguel el Alto,Altos Sur
+79,6,Gómez Farías,Sur
+80,9,San Sebastián del Oeste,Costa-Sierra Occidental
+81,1,Santa María de los Ángeles,Norte
+82,11,Sayula,Lagunas
+83,10,Tala,Valles
+84,9,Talpa de Allende,Costa-Sierra Occidental
+85,6,Tamazula de Gordiano,Sur
+86,11,Tapalpa,Lagunas
+87,6,Tecalitlán,Sur
+88,7,Tecolotlán,Sierra de Amula
+89,11,Techaluta de Montenegro,Lagunas
+90,7,Tenamaxtlán,Sierra de Amula
+91,2,Teocaltiche,Altos Norte
+92,11,Teocuitatlán de Corona,Lagunas
+93,3,Tepatitlán de Morelos,Altos Sur
+94,10,Tequila,Valles
+95,10,Teuchitlán,Valles
+96,5,Tizapán el Alto,Sureste
+97,12,Tlajomulco de Zúñiga,Centro
+98,12,Tlaquepaque,Centro
+99,6,Tolimán,Sur
+100,8,Tomatlán,Costa Sur
+101,12,Tonalá,Centro
+102,7,Tonaya,Sierra de Amula
+103,6,Tonila,Sur
+104,1,Totatiche,Norte
+105,4,Tototlán,Ciénega
+106,7,Tuxcacuesco,Sierra de Amula
+107,5,Tuxcueca,Sureste
+108,6,Tuxpan,Sur
+109,2,Unión de San Antonio,Altos Norte
+110,7,Unión de Tula,Sierra de Amula
+111,3,Valle de Guadalupe,Altos Sur
+112,5,Valle de Juárez,Sureste
+113,6,San Gabriel,Sur
+114,11,Villa Corona,Lagunas
+115,1,Villa Guerrero,Norte
+116,2,Villa Hidalgo,Altos Norte
+117,3,Cañadas de Obregón,Altos Sur
+118,3,Yahualica de González Gallo,Altos Sur
+119,11,Zacoalco de Torres,Lagunas
+120,12,Zapopan,Centro
+121,6,Zapotiltic,Sur
+122,6,Zapotitlán de Vadillo,Sur
+123,4,Zapotlán del Rey,Ciénega
+124,12,Zapotlanejo,Centro
+125,3,San Ignacio Cerro Gordo,Altos Sur

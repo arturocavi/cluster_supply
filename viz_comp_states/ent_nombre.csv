@@ -1,0 +1,34 @@
+id_ent,ent,nom_ofi,nom_ent
+1,AGS,Aguascalientes,Aguascalientes
+2,BC,Baja California,Baja California
+3,BCS,Baja California Sur,Baja California Sur
+4,CAMP,Campeche,Campeche
+5,COAH,Coahuila de Zaragoza,Coahuila
+6,COL,Colima,Colima
+7,CHIS,Chiapas,Chiapas
+8,CHIH,Chihuahua,Chihuahua
+9,CDMX,Ciudad de México,Ciudad de México
+10,DGO,Durango,Durango
+11,GTO,Guanajuato,Guanajuato
+12,GRO,Guerrero,Guerrero
+13,HGO,Hidalgo,Hidalgo
+14,JAL,Jalisco,Jalisco
+15,MEX,México,Estado de México
+16,MICH,Michoacán de Ocampo,Michoacán
+17,MOR,Morelos,Morelos
+18,NAY,Nayarit,Nayarit
+19,NL,Nuevo León,Nuevo León
+20,OAX,Oaxaca,Oaxaca
+21,PUE,Puebla,Puebla
+22,QRO,Querétaro de Arteaga,Querétaro
+23,QROO,Quintana Roo,Quintana Roo
+24,SLP,San Luis Potosí,San Luis Potosí
+25,SIN,Sinaloa,Sinaloa
+26,SON,Sonora,Sonora
+27,TAB,Tabasco,Tabasco
+28,TAMPS,Tamaulipas,Tamaulipas
+29,TLAX,Tlaxcala,Tlaxcala
+30,VER,Veracruz de Ignacio de la Llave,Veracruz
+31,YUC,Yucatán,Yucatán
+32,ZAC,Zacatecas,Zacatecas
+33,NAC,Nacional,Nacional

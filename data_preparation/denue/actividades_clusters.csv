@@ -1,0 +1,124 @@
+codigo_act,nombre_act,id_sub
+314110,Fabricación de alfombras y tapetes ,314
+321920,Fabricación de productos para embalaje y envases de madera ,321
+322210,Fabricación de envases de cartón ,322
+323119,Impresión de formas continuas y otros impresos ,323
+324191,Fabricación de aceites y grasas lubricantes ,324
+325120,Fabricación de gases industriales ,325
+325130,Fabricación de pigmentos y colorantes sintéticos ,325
+325211,Fabricación de resinas sintéticas ,325
+325212,Fabricación de hules sintéticos ,325
+325510,Fabricación de pinturas y recubrimientos ,325
+325993,Fabricación de resinas de plásticos reciclados ,325
+326110,Fabricación de bolsas y películas de plástico,326
+326120,"Fabricación de tubería y conexiones, y tubos para embalaje ",326
+326140,Fabricación de espumas y productos de poliestireno ,326
+326150,Fabricación de espumas y productos de uretano ,326
+326160,Fabricación de botellas de plástico ,326
+326192,Fabricación de autopartes de plástico con y sin reforzamiento ,326
+326193,Fabricación de envases y contenedores de plástico para embalaje con y sin reforzamiento ,326
+326194,Fabricación de otros productos de plástico de uso industrial sin reforzamiento ,326
+326198,Fabricación de otros productos de plástico con reforzamiento ,326
+326199,Fabricación de otros productos de plástico sin reforzamiento ,326
+326211,Fabricación de llantas y cámaras ,326
+326220,Fabricación de bandas y mangueras de hule y de plástico ,326
+326290,Fabricación de otros productos de hule ,326
+327111,"Fabricación de artículos de alfarería, porcelana y loza ",327
+327112,Fabricación de muebles de baño ,327
+327121,Fabricación de ladrillos no refractarios ,327
+327122,Fabricación de azulejos y losetas no refractarias ,327
+327123,Fabricación de productos refractarios ,327
+327910,Fabricación de productos abrasivos ,327
+327991,Fabricación de productos a base de piedras de cantera ,327
+327999,Fabricación de otros productos a base de minerales no metálicos ,327
+331111,Complejos siderúrgicos ,331
+331112,Fabricación de desbastes primarios y ferroaleaciones ,331
+331210,Fabricación de tubos y postes de hierro y acero ,331
+331220,Fabricación de otros productos de hierro y acero ,331
+331310,Industria básica del aluminio ,331
+331411,Fundición y refinación de cobre ,331
+331412,Fundición y refinación de metales preciosos ,331
+331419,Fundición y refinación de otros metales no ferrosos ,331
+331420,Laminación secundaria de cobre ,331
+331490,Laminación secundaria de otros metales no ferrosos ,331
+331510,Moldeo por fundición de piezas de hierro y acero ,331
+331520,Moldeo por fundición de piezas metálicas no ferrosas ,331
+332110,Fabricación de productos metálicos forjados y troquelados ,332
+332211,Fabricación de herramientas de mano metálicas sin motor ,332
+332410,Fabricación de calderas industriales ,332
+332420,Fabricación de tanques metálicos de calibre grueso ,332
+332430,Fabricación de envases metálicos de calibre ligero ,332
+332510,Fabricación de herrajes y cerraduras ,332
+332610,"Fabricación de alambre, productos de alambre y resortes ",332
+332710,Maquinado de piezas para maquinaria y equipo en general ,332
+332720,"Fabricación de tornillos, tuercas, remaches y similares ",332
+332810,Recubrimientos y terminados metálicos ,332
+332910,Fabricación de válvulas metálicas ,332
+332991,Fabricación de baleros o rodamientos ,332
+332999,Fabricación de otros productos metálicos ,332
+333111,Fabricación de maquinaria y equipo agrícola ,333
+333112,Fabricación de maquinaria y equipo pecuario ,333
+333120,Fabricación de maquinaria y equipo para la construcción ,333
+333130,Fabricación de maquinaria y equipo para la industria extractiva ,333
+333241,Fabricación de maquinaria y equipo para la industria de la madera ,333
+333242,Fabricación de maquinaria y equipo para la industria del hule y del plástico ,333
+333243,Fabricación de maquinaria y equipo para la industria alimentaria y de las bebidas ,333
+333244,Fabricación de maquinaria y equipo para la industria textil ,333
+333245,Fabricación de maquinaria y equipo para la industria de la impresión ,333
+333246,Fabricación de maquinaria y equipo para la industria del vidrio y otros minerales no metálicos ,333
+333249,Fabricación de maquinaria y equipo para otras industrias manufactureras ,333
+333319,Fabricación de otra maquinaria y equipo para el comercio y los servicios ,333
+333411,Fabricación de equipo de aire acondicionado y calefacción ,333
+333412,Fabricación de equipo de refrigeración industrial y comercial ,333
+333510,Fabricación de maquinaria y equipo para la industria metalmecánica ,333
+333610,"Fabricación de motores de combustión interna, turbinas y transmisiones ",333
+333910,Fabricación de bombas y sistemas de bombeo ,333
+333920,Fabricación de maquinaria y equipo para levantar y trasladar ,333
+333991,Fabricación de equipo para soldar y soldaduras ,333
+333992,Fabricación de maquinaria y equipo para envasar y empacar ,333
+333993,Fabricación de aparatos e instrumentos para pesar ,333
+333999,Fabricación de otra maquinaria y equipo para la industria en general ,333
+334110,Fabricación de computadoras y equipo periférico ,334
+334210,Fabricación de equipo telefónico ,334
+334220,"Fabricación de equipo de transmisión y recepción de señales de radio y televisión, y equipo de comunicación inalámbrico ",334
+334290,Fabricación de otros equipos de comunicación ,334
+334310,Fabricación de equipo de audio y de video ,334
+334410,Fabricación de componentes electrónicos ,334
+334511,Fabricación de relojes ,334
+334519,"Fabricación de otros instrumentos de medición, control, navegación, y equipo médico electrónico ",334
+334610,Fabricación y reproducción de medios magnéticos y ópticos ,334
+335311,Fabricación de motores y generadores eléctricos ,335
+335312,Fabricación de equipo y aparatos de distribución de energía eléctrica ,335
+335910,Fabricación de acumuladores y pilas ,335
+335920,Fabricación de cables de conducción eléctrica ,335
+335999,Fabricación de otros productos eléctricos ,335
+336110,Fabricación de automóviles y camionetas ,336
+336120,Fabricación de camiones y tractocamiones ,336
+336210,Fabricación de carrocerías y remolques ,336
+336310,Fabricación de motores y sus partes para vehículos automotrices ,336
+336320,Fabricación de equipo eléctrico y electrónico y sus partes para vehículos automotores ,336
+336330,Fabricación de partes de sistemas de dirección y de suspensión para vehículos automotrices ,336
+336340,Fabricación de partes de sistemas de frenos para vehículos automotrices ,336
+336350,Fabricación de partes de sistemas de transmisión para vehículos automotores ,336
+336360,Fabricación de asientos y accesorios interiores para vehículos automotores ,336
+336370,Fabricación de piezas metálicas troqueladas para vehículos automotrices ,336
+336390,Fabricación de otras partes para vehículos automotrices ,336
+336410,Fabricación de equipo aeroespacial ,336
+336510,Fabricación de equipo ferroviario ,336
+336610,Fabricación de embarcaciones ,336
+336991,Fabricación de motocicletas ,336
+336999,Fabricación de otro equipo de transporte ,336
+434221,Comercio al por mayor de materiales metálicos para la construcción y la manufactura,434
+434222,Comercio al por mayor de productos químicos para la industria farmacéutica y para otro uso industrial,434
+434229,Comercio al por mayor de otras materias primas para otras industrias,434
+434311,Comercio al por mayor de desechos metálicos,434
+435220,Comercio al por mayor de maquinaria y equipo para la industria manufacturera,435
+435419,Comercio al por mayor de otra maquinaria y equipo de uso general,435
+436112,"Comercio al por mayor de partes y refacciones nuevas para automóviles, camionetas y camiones",436
+468211,"Comercio al por menor de partes y refacciones nuevas para automóviles, camionetas y camiones",468
+468212,"Comercio al por menor de partes y refacciones usadas para automóviles, camionetas y camiones",468
+468213,"Comercio al por menor de llantas y cámaras para automóviles, camionetas y camiones",468
+811122,Tapicería de automóviles y camiones ,811
+811123,Servicios de blindaje y de adaptación de automóviles y camiones ,811
+811129,Instalación de cristales y otras reparaciones a la carrocería de automóviles y camiones ,811
+811312,Reparación y mantenimiento de maquinaria y equipo industrial ,811

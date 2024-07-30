@@ -1,0 +1,21 @@
+id_sub,subsector,id_cla
+314,"Fabricación de productos textiles, excepto prendas de vestir",1
+321,Industria de la madera,1
+322,Industria del papel,1
+323,Impresión e industrias conexas,1
+324,Fabricación de productos derivados del petróleo y del carbón,1
+325,Industria química,1
+326,Industria del plástico y del hule,1
+327,Fabricación de productos a base de minerales no metálicos,1
+331,Industrias metálicas básicas,2
+332,Fabricación de productos metálicos,2
+333,Fabricación de maquinaria y equipo,3
+334,"Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",3
+335,"Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",3
+336,Fabricación de equipo de transporte,4
+434,"Comercio al por mayor de materias primas agropecuarias y forestales, para la industria, y materiales de desecho",5
+435,"Comercio al por mayor de maquinaria, equipo y mobiliario para actividades agropecuarias, industriales, de servicios y comerciales, y de otra maquinaria y equipo de uso general",5
+436,"Comercio al por mayor de camiones y de partes y refacciones nuevas para automóviles, camionetas y camiones",5
+468,"Comercio al por menor de vehículos de motor, refacciones, combustibles y lubricantes",5
+811,Servicios de reparación y mantenimiento,5
+999,Total,9

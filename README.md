@@ -19,8 +19,8 @@ Economic indicators:
 
 
 ## Technologies Used
-- Python
 - SQL
+- Python
 - Tableau
 - QGIS
 

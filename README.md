@@ -39,8 +39,9 @@ Economic indicators:
 - The heat map and the location and directory map allow filtering by Cluster, Jalisco Region and Municipality for customized queries.
 
 
-## Interactive Dashboards (Tableau)
-Maps prepared with QGIS.
+## Dashboards
+The dashboards were developed in Spanish for the Institute of Statistical and Geographic Information of Jalisco (IIEG).\
+Maps were prepared with QGIS.
 
 **Heat Map and Directory**\
 https://public.tableau.com/views/ProveeduradeClusters2/Mapadecalor?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
@@ -52,7 +53,7 @@ https://public.tableau.com/views/ProveeduradeClusters1/Automotriz?:language=es-E
 
 
 ## Studies
-Tables of studies elaborated with SQL queries.
+The information in the graphs and tables of the studies was obtained through SQL queries.\
 The studies were written in Spanish for the Institute of Statistical and Geographic Information of Jalisco (IIEG).
 
 **Automotive Cluster Study**\
@@ -69,7 +70,7 @@ https://iieg.gob.mx/ns/wp-content/uploads/2024/06/Proveeduria-Tooling-Cluster.pd
 
 
 ## Data Preparation
-Data extraction, cleaning, transformation and loading into PostgreSQL was done with Python.
+Data extraction, cleaning, transformation and loading into PostgreSQL was done with Python.\
 The source of information is from INEGI:
-Censos Económicos 2004-2019.
-DENUE 2024.
+- Censos Económicos 2004-2019.
+- DENUE 2024.

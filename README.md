@@ -73,4 +73,4 @@ https://iieg.gob.mx/ns/wp-content/uploads/2024/06/Proveeduria-Tooling-Cluster.pd
 Data extraction, cleaning, transformation and loading into PostgreSQL was done with Python.\
 The source of information is from INEGI:
 - Censos Económicos 2004-2019.
-- DENUE 2024.
+- DENUE 2019 & 2024.

@@ -1,3 +1,3 @@
 *.sql linguist-detectable=true
-*.bas linguist-detectable=vb6
-*.r linguist-detectable=false
+*.bas linguist-detectable=false
+*.ipynb linguist-detectable=false

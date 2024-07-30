@@ -43,9 +43,12 @@ Maps prepared with QGIS.
 
 **Heat Map and Directory**\
 https://public.tableau.com/views/ProveeduradeClusters2/Mapadecalor?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+![cluster_mapa_calor](https://github.com/user-attachments/assets/d93dbdc3-2823-4df5-b44e-3109e2a26cce)
+
 
 **Comparisons by State**\
 https://public.tableau.com/views/ProveeduradeClusters1/Automotriz?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+![cluster_comp_ent](https://github.com/user-attachments/assets/099c65c1-3bb6-4051-8a8b-cbc02c7b3aad)
 
 
 ## Studies

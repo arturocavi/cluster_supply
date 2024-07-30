@@ -1,6 +1,7 @@
 # Cluster Supply Analysis
 Dashboards and and studies for the Automotive, Electronics, Foundry and Tooling clusters of Jalisco, Mexico.
 
+
 ## Overview
 In order to comprehend the evolution of certain industrial clusters in Jalisco, Mexico regarding certain economic indicators and to identify their position at national level, I created some interactive dashboards and an individual study for each cluster.
 
@@ -45,10 +46,9 @@ Maps prepared with QGIS.
 https://public.tableau.com/views/ProveeduradeClusters2/Mapadecalor?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 [<img src="https://github.com/user-attachments/assets/d93dbdc3-2823-4df5-b44e-3109e2a26cce">](https://public.tableau.com/views/ProveeduradeClusters2/Mapadecalor?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-
 **Comparisons by State**\
 https://public.tableau.com/views/ProveeduradeClusters1/Automotriz?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-![cluster_comp_ent](https://github.com/user-attachments/assets/099c65c1-3bb6-4051-8a8b-cbc02c7b3aad)
+[<img src="https://github.com/user-attachments/assets/099c65c1-3bb6-4051-8a8b-cbc02c7b3aad">](https://public.tableau.com/views/ProveeduradeClusters1/Automotriz?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## Studies

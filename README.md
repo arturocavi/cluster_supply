@@ -43,7 +43,7 @@ Maps prepared with QGIS.
 
 **Heat Map and Directory**\
 https://public.tableau.com/views/ProveeduradeClusters2/Mapadecalor?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-![cluster_mapa_calor](https://github.com/user-attachments/assets/d93dbdc3-2823-4df5-b44e-3109e2a26cce)
+[<img src="https://github.com/user-attachments/assets/d93dbdc3-2823-4df5-b44e-3109e2a26cce">](https://public.tableau.com/views/ProveeduradeClusters2/Mapadecalor?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 **Comparisons by State**\

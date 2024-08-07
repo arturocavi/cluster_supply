@@ -1,4 +1,4 @@
-# Load to SQL DENUE db
+# Load DENUE to PostgreSQL
 
 # Import libraries
 import pandas as pd
